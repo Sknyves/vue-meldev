@@ -1,4 +1,5 @@
 @import './base.css';
+@import './script.js';
 
 #app {
   max-width: 1280px;
